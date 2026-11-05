@@ -4,10 +4,8 @@
 > Sistema Integral de Punto de Venta, Inteligencia de Inventario Multi-Sucursal y Asesor Financiero Automatizado para Retail (Régimen Pro Pyme 14 D3 - SII Chile).
 
 [![Python Version](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![Framework](https://img.shields.io/badge/Backend-Flask%20Modular-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![Database](https://img.shields.io/badge/Database-SQLite%20%7C%20MySQL-4479A1?style=flat&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![AI Vision](https://img.shields.io/badge/AI%20Engine-Google%20Gemini%20Vision-4285F4?style=flat&logo=google&logoColor=white)](https://ai.google.dev/)
-[![Frontend](https://img.shields.io/badge/Frontend-Vanilla%20ES6%20%2B%20CSS3%20(No%20Frameworks)-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/)
 [![UI Target](https://img.shields.io/badge/Target-Touch%20Tablets%209.7%22-10B981?style=flat)](https://github.com/)
 [![Test Suite](https://img.shields.io/badge/Tests-79%20Passing-success?style=flat)](https://github.com/)
 [![License](https://img.shields.io/badge/License-Proprietary-red?style=flat)](LICENSE)
@@ -17,10 +15,15 @@
 ## 1. Propuesta de Valor y Enfoque Comercial
 
 ### El Problema del Retail y las Pymes en Chile
-La mayoría de los sistemas de punto de venta (POS) tradicionales se limitan a ser calculadoras de caja registradoras con emisión de tickets. Los dueños de negocios en Chile enfrentan tres problemas críticos que destruyen su rentabilidad:
+En Chile, las Pequeñas y Medianas Empresas (PYMES) enfrentan un panorama desafiante: cerca del 40% de ellas no logra superar los 3 años de vida y, a largo plazo, hasta un 80% llega a cerrar antes de cumplir los 5 o 6 años,
+aunque las razones varían según el sector, los expertos y las estadísticas identifican que los motivos principales de quiebra no siempre se deben a la falta de ventas, sino a problemas estructurales de gestión y
+la mayoría de los sistemas de punto de venta (POS) tradicionales se limitan a ser calculadoras de caja registradoras con emisión de tickets; Los dueños de negocios en Chile enfrentan problemas críticos que destruyen su rentabilidad:
 1. **Ceguera Tributaria:** Incapacidad de prever el pago mensual de impuestos (Formulario 29: IVA neto + PPM), lo que provoca multas por mora ante el SII y crisis repentinas de liquidez al día 20 de cada mes.
 2. **Capital Atrapado en Bodega:** Carencia de visibilidad sobre qué productos concentran el 80% de las ventas frente a aquellos que representan capital inmovilizado y obsolescencia.
 3. **Desorden en la Tesorería:** Mezcla constante de los ingresos operativos con el sueldo del dueño, los arriendos y el dinero de reinversión en stock.
+4. **Falta de Planificación y Cálculo del Punto de Equilibrio:** Desconocimiento de los márgenes reales por producto y del volumen mínimo de venta requerido para cubrir costos fijos, lo que lleva a competir erróneamente solo por bajar precios.
+5. **Descalce de Flujo de Caja por Plazos de Pago:** Incapacidad para cubrir costos fijos inmediatos (sueldos, arriendos, leyes sociales) debido a brechas de 30 a 90 días en la recaudación de facturas emitidas a grandes clientes.
+6. **Carencia de Espalda Financiera e Invalidez Crediticia:** Falta de ahorros para absorber imprevistos económicos y balances contables deficientes que impiden el acceso a créditos bancarios tradicionales, forzando el endeudamiento informal o de alto costo.
 
 ### La Solución: ARCHI POS & ERP
 ARCHI no es solo un software de facturación; es un **asesor financiero y operativo automatizado**. Transforma cada venta en datos estratégicos en tiempo real, permitiendo a empresas del **Régimen Pro Pyme (Art. 14 D3)** tomar decisiones basadas en números precisos.
