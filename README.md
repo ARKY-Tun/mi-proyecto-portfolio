@@ -225,126 +225,170 @@ El servidor inicializará las 14 migraciones relacionales automáticamente y que
 ---
 
 ## 5. Capturas de Pantalla del Sistema
-
-Las siguientes vistas representan los módulos clave de la interfaz táctil:
-
-
-
 ---
+Las siguientes vistas representan los módulos clave de la interfaz táctil y desktop. *Haz clic en cada sección para expandir las imágenes.*
 
 ### Terminal Punto de Venta Touch (POS)
 
----
+<details>
+  <summary><b>Ver interfaz del POS (Vanilla JS para latencia cero)</b></summary>
+  
+  <br>
+  <i>Vista principal del cajero con soporte multi-método de pago.</i>
 <img width="1307" height="713" alt="image" src="https://github.com/user-attachments/assets/a9d581be-e2ab-481f-aeec-6e4169fccf48" />
 
----
+<br>
+  <i>Vista del carrito de ventas y productos.</i>
 <img width="1036" height="758" alt="pos3" src="https://github.com/user-attachments/assets/80eb175d-7135-44cf-8140-01903a811a01" />
 
 ---
+<br>
+  <i>Vista del carrito de ventas y boton de cobrar.</i>
 <img width="1026" height="770" alt="pos" src="https://github.com/user-attachments/assets/6c097383-644d-4787-ad9a-989abb632854" />
 
 ---
+<i>Selector modal touch-friendly para gestión de variantes.</i>
 <img width="1023" height="766" alt="pos2" src="https://github.com/user-attachments/assets/c7b503b3-55a1-42e8-9ad8-067c7aa52a1d" />
-
----
+</details>
 
 ### Dashboard Financiero y Asignación de 4 Fondos
----
 
-<img width="1890" height="915" alt="7" src="https://github.com/user-attachments/assets/9b6c169d-19a4-4429-8c27-1acba1330c28" />
-
----
+<details>
+  <summary><b>Ver Dashboard Financiero y Tesorería</b></summary>
+<br>
+  <i>Distribución algorítmica de la recaudación mediante la regla de los 4 Fondos de Capital.</i>
 <img width="1648" height="906" alt="Captura de pantalla 2026-10-22 021811" src="https://github.com/user-attachments/assets/1111ebe8-a073-47bd-84b7-7f547e069b9e" />
 
----
+</details>
+
+
 ### Analisis & Metricas
-
----
-
+<details>
+  <summary><b>Ver Analisis y Metricas</b></summary>
+  
+ <br>
+  <i>Telemetría central y  Resumen general de un periodo especifico.</i>
 <img width="1651" height="911" alt="Captura de pantalla 2026-10-22 022723" src="https://github.com/user-attachments/assets/c245d553-4298-4c49-b05a-cf5524fb465a" />
-
 ---
+<br>
+  <i>Desempeño de cada local, podio de ventas, radar de alertas operativas, tendencia de ventas y grafico de métodos de pagos.</i>
 
 <img width="1644" height="920" alt="Captura de pantalla 2026-10-22 022746" src="https://github.com/user-attachments/assets/5a63e89d-e89d-40c1-aa86-9a2e63937ba4" />
 
 ---
+<br>
+  <i>Graficos de ventas diarias por metodo de pago, distribucion por metodos de pago, horas pico de ventas, ventas por categorias, top 5 productos mas vendidos.</i>
 
 <img width="1659" height="908" alt="Captura de pantalla 2026-10-22 022610" src="https://github.com/user-attachments/assets/c74e58af-477c-4d02-9565-2d822ed84c6b" />
 
 ---
+<br>
+  <i>Comparador de periodos con representación grafica.</i>
 
 <img width="1878" height="888" alt="15" src="https://github.com/user-attachments/assets/ddfdd030-669b-4f58-bc4a-c78162da1e52" />
-
-
----
+<br>
+  <i>Centro de análisis de ventas, Flujo de caja disponible, ganancia real y gastos.</i>
 
 <img width="1899" height="907" alt="13" src="https://github.com/user-attachments/assets/5bf4e3a1-498e-48bb-ac31-db262388d09d" />
 
 ---
+<br>
+  <i>Analisis financiero con periodos personalizados y calendario interactivo.</i>
 
 <img width="1805" height="905" alt="14" src="https://github.com/user-attachments/assets/c6052fd0-1d8c-4643-ad50-72037e2fa31d" />
 
----
-
+</details>
 
 ### Inteligencia de Inventario y Matriz ABC (Pareto)
----
+<details>
+  <summary><b>Ver Inteligencia de inventario y Matriz ABC</b></summary>
+<br>
+  <i>Inventario de multiples sucursales.</i>  
+
 <img width="1646" height="900" alt="Captura de pantalla 2026-10-22 021954" src="https://github.com/user-attachments/assets/c9e4d680-55a3-46d1-bf20-bc5dfd4a9700" />
 
----
+<br>
+  <i>Clasificación de productos del inventario de cada sucursal.</i>
 <img width="1642" height="901" alt="Captura de pantalla 2026-10-22 022046" src="https://github.com/user-attachments/assets/f2c65596-b7a3-4f04-86e3-56f885a79b7a" />
 
----
+</details>
 
 ### Control de Gastos y Visión Semestral
+<details>
+  <summary><b>Ver Control de Gastos y Vision Semestral</b></summary>
+<br>
+  <i>Control y composición semestral de egresos.</i>  
 <img width="1023" height="768" alt="Captura de pantalla 2026-10-22 021215" src="https://github.com/user-attachments/assets/1fa1df14-a696-4d0b-abf7-ad9389cf44da" />
 
----
+<br>
+  <i>Flujo de caja y planificación de capital, pozo actual, retiros del jefe y fondo de reserva.</i> 
 
 <img width="1653" height="902" alt="Captura de pantalla 2026-10-22 022429" src="https://github.com/user-attachments/assets/e3ad36f7-1e20-444f-8f4c-bbe8554ef576" />
 
----
+<br>
+  <i>Flujo de caja y Planificación de Capital, Asesor de capital inteligente y simulador de compras de stock.</i> 
 
 <img width="1638" height="914" alt="Captura de pantalla 2026-10-22 022230" src="https://github.com/user-attachments/assets/a59cb5db-4bb4-4409-884d-ef4bad8535fd" />
 
-
----
+<br>
+  <i>Control de gastos, egresos operativos y compras a proveedores, .</i> 
 
 <img width="1901" height="912" alt="11" src="https://github.com/user-attachments/assets/7074f58d-24ae-4b0a-90f5-36a4335ba411" />
 
----
+<br>
+  <i>Control de gastos fijos mensuales, compromisos y calculo de presupuesto fijo mensual.</i> 
 
 <img width="1894" height="922" alt="12" src="https://github.com/user-attachments/assets/44330380-e5fd-4664-8d19-26c16545e33d" />
 
----
-### Impuestos & F29
+</details>
 
----
+### Impuestos & F29
+<details>
+  <summary><b>Ver Impuestos y F29</b></summary>
+<br>
+  <i>Impuestos y formulario 29, registro de pago de F29, PPM e imposiciones.</i>  
 
 <img width="1913" height="925" alt="8" src="https://github.com/user-attachments/assets/286ca4bb-cab3-4f92-9866-e7b5b5bb4d78" />
 
----
-
+<br>
+  <i>Registro detallado de compras y ventas, desglose por medio de pagos y la posibilidad de excluir medios de pagos para el calculo final.</i>  
 <img width="1845" height="907" alt="9" src="https://github.com/user-attachments/assets/a6edcd8b-166c-4d96-ae57-351083e03179" />
 
----
+<br>
+  <i>Impuestos determinados a pagar y desglose de documentos tributarios.</i>  
 
 <img width="1851" height="900" alt="10" src="https://github.com/user-attachments/assets/c00517d2-b3b4-42c2-bf96-eb4c7ed9a7b1" />
 
+</details>
 
----
 ### Configuración del Sistema
-
----
+<details>
+  <summary><b>Ver Configuración del Sistema </b></summary>
+<br>
+  <i>Configuracion de comprobantes y test de hardware POS.</i>  
 
 <img width="1838" height="913" alt="a1" src="https://github.com/user-attachments/assets/87cdc877-ad2a-4b82-8416-78d33ce38724" />
-
-
----
-
+<br>
+  <i>Identificación y Perfil de empresa.</i> 
+  
 <img width="1908" height="887" alt="a2" src="https://github.com/user-attachments/assets/8ec1b669-2d18-46a0-9549-b0ae840deaa4" />
 
+<br>
+  <i>Bitacora de Ciberseguridad.</i> 
+  
+<img width="1895" height="892" alt="01" src="https://github.com/user-attachments/assets/99a9cc16-4b3d-4857-936a-71cd9de26d58" />
 
+<br>
+  <i>Usuarios, perfiles y accesos.</i> 
+
+<img width="1888" height="882" alt="02" src="https://github.com/user-attachments/assets/e4c4b5b7-5bd6-4566-9795-eb84939b3f93" />
+
+<br>
+  <i>Respaldo en la nube.</i> 
+
+<img width="1892" height="668" alt="03" src="https://github.com/user-attachments/assets/500f50da-d63a-4609-8c57-61dde929df87" />
+
+</details>
 
 ---
 
@@ -384,6 +428,8 @@ OK
 - [x] Cuadratura de caja mediante visión artificial Google Gemini OCR.
 - [x] Metodología de tesorería y regla de los 4 Fondos.
 - [x] Arquitectura responsiva optimizada para tablets de 9.7 pulgadas.
+- [ ] Creación del Manual de Usuario y Tutoriales.
+- [ ] Integración directa con API Mercado Pago Point.
 - [ ] Integración directa con boleta electrónica del Servicio de Impuestos Internos (SII DTE vía API Bhe/Bhe-Boleta).
 - [ ] Sincronización bidireccional con plataformas de e-commerce (Shopify / WooCommerce).
 - [ ] Notificaciones automáticas de stock crítico y metas diarias a través de Webhook de WhatsApp Business.
@@ -396,7 +442,7 @@ OK
 Este proyecto es software privado y propietario. Todos los derechos reservados. El uso, distribución o modificación no autorizada está estrictamente prohibido bajo las leyes de propiedad intelectual de la República de Chile y tratados internacionales.
 
 ### Contacto y Soporte Corporativo
+- **Lead Engineer:**Arquimedes Barraza, Ingeniero Civil Informatico.
 - **Organización:** ARCHI Gestión Comercial
-- **Departamento de Ingeniería:** Tech Lead & Product Team
 - **Sitio Web:** [https://archi-pos.com](https://archi-pos.com)
-- **Consultas Comerciales e Inversión:** `contacto@archi-pos.com`
+- **Consultas Comerciales e Inversión:** `sebamancillabarraza@gmail.com`
